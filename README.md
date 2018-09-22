@@ -1,2 +1,4 @@
 # display-window-width
-Adds an element that shows window's width as you adjust it. Helpful for developing responsive websites.
+Tool to help develop responsive websites. Automatically loads the window's current width even as you adjust it.
+
+Just copy and paste the code onto your .js file.
